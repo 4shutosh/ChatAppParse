@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+          "serverURL": "http://161.129.64.102:1557/parse",
+          "appId": "ChatAppID",
+          "masterKey": "ChatAppMasterKey",
+          "appName": "ChatApp"
+        }
+      ],
+      "users": [
+        {
+          "user":"admin",
+          "pass":"pass@7465"
+        }
+      ]
+}
